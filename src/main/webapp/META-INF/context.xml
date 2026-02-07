@@ -1,0 +1,8 @@
+<Context>
+
+    <ResourceLink name="jdbc/ac4y"
+                  global="jdbc/ac4y"
+                  type="javax.sql.DataSource"
+    />
+
+</Context>
